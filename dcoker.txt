@@ -1,0 +1,3 @@
+docker container commint -a "Ganesankar57" resume mypage
+docker tag
+docker image push
